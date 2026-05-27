@@ -1,0 +1,35 @@
+body {
+
+    background-color: rgb(253, 161, 7);
+    text-align: center;
+    font-size: larger;
+    color: rgb(214, 146, 11);
+    height: 140px;
+    align-items: last baseline;
+
+}
+
+#titulo {
+
+    padding: 50px;
+
+}
+
+#menu {
+
+    background-color: rgb(253, 161, 7);
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+
+}
+
+#card {
+
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgb(253, 161, 7);
+    
+}
